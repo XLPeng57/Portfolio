@@ -25,7 +25,7 @@ const mainBody = {
     },
     {
       image: "fa-plus-square",
-      url: "https://drive.google.com/file/d/1rjX_A4N8Shgw4ZDM5Oxoadeo3vFS25wb/view?usp=sharing",
+      url: "https://drive.google.com/file/d/1WqtYKuk4BghlSzWAcgxUqbgDn7GuHJ89/view?usp=sharing",
     },
   ],
 };
@@ -55,7 +55,7 @@ const about = {
     my ability to tackle complex problems with logical and analytical thinking. With a wealth of experience in web development, desktop \
     application development, and mobile application development, I am well-versed in various programming languages and frameworks. \
     I have a strong passion for keeping up with the latest technological advancements and I am always eager to learn new skills to enhance my abilities.",
-  resume: "https://drive.google.com/file/d/1rjX_A4N8Shgw4ZDM5Oxoadeo3vFS25wb/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1WqtYKuk4BghlSzWAcgxUqbgDn7GuHJ89/view?usp=sharing",
 };
 
 
@@ -106,7 +106,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "XLPeng57",
   reposLength: 4,
-  specificRepos: ["Portfolio", "WebMusicPlayer", "Full-Stack-Web-Programming", "AMazeByXiangluPeng"],
+  specificRepos: ["TripsPlanner", "Portfolio", "WebMusicPlayer", "Full-Stack-Web-Programming"],
 };
 
 
